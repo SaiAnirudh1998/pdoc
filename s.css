@@ -1,0 +1,25 @@
+<style>
+		.form1 {
+			text-align: center;
+			margin: 30px 10px; 
+		}
+		.s {
+			font-family: sans-serif;
+			padding: 10px 20px;
+			border:1px #e8e8e8 solid;
+			border-radius:6px;
+			background-color: white;
+			color:#333;
+		}
+		.s:focus {
+			background-color: #fcffe0;
+			/*color: white;*/
+		}
+		.btn {
+			padding: 10px 20px;
+			border-radius: 6px;
+			background-color: #e8e8e8;
+			border:1px #e8e8e8 solid;
+
+		}
+	</style>
